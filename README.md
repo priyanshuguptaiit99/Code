@@ -1,2 +1,2 @@
 # Code
-Their is code of some important things for fresher students.
+Their is code of for basic programming.
